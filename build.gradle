@@ -25,7 +25,7 @@ apply plugin: 'eclipse'
 
 nebulaRelease {
    
-    addReleaseBranchPattern(/^PNTS*/)
+    addReleaseBranchPattern(/PNTS-2106/)
 }
 
 // In this section you declare where to find the dependencies of your project
